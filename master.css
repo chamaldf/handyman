@@ -1,0 +1,12 @@
+.page-tempate-default{
+    background-color: black
+}
+
+/* navbar */
+
+.navbar-nav .nav-item:not(:last-child) {
+    border-right: 1px solid black;
+ } 
+
+ /* end of navbar */
+
