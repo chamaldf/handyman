@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* navbar */
+
+.navbar-nav .nav-item:not(:last-child) {
+    border-right: 1px solid black;
+ } 
+
+ /* end of navbar */
+
+/* Hero Section */
+.hero-section{
+    text-align: center
+}
+
+/*sidebar*/
+.nav.nav-tabs{
+float:left;
+display: block;
+margin-right: 20px;
+border-bottom:0;
+padding-right: 15px; 
+}
+/**/
+
+.hero-section {
+    padding-top: 5%;
+}
+
+.sidebar{
+    padding-top: 5%; 
+}
+
+.sidebar-link:hover{
+    background-color: #444;
+}
+
+/* END OF 'Hero Section' */
